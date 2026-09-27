@@ -49,19 +49,6 @@ Organizational intelligence platform focused on keeping project knowledge connec
 
 ---
 
-### GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <sub>Build → break → understand → build again.</sub>
 </p>
