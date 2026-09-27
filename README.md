@@ -15,9 +15,9 @@
 
 ### What I do
 
-I build software to understand problems, not just to complete projects.
+Just trying to make a dent in universe
 
-My current focus is **AI/ML, agentic systems, and software that can enforce security**.
+My current focus is **AI/ML, agentic systems, and intelligent systems**.
 
 I'm currently building **[Solveaux](https://solveaux.com)** — a platform for preserving the decisions, constraints, research, and knowledge behind the work people do.
 
@@ -29,7 +29,7 @@ I'm currently building **[Solveaux](https://solveaux.com)** — a platform for p
 → Building        Solveaux
 → Exploring       Agentic AI · MCP · AI systems
 → Learning        ML · system design · intelligent systems
-→ Researching     AI + software engineering
+→ Researching     Practical & responsible AI
 ```
 
 ---
@@ -49,7 +49,5 @@ Organizational intelligence platform focused on keeping project knowledge connec
 
 ---
 
-<p align="center">
-  <sub>Build → break → understand → build again.</sub>
-</p>
+<p align="center"> <br> <strong>Ideas → Experiments → Systems</strong> <br><br> <sub>Always curious about what's possible.</sub> </p>
 
