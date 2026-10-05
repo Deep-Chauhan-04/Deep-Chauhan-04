@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://solveaux.com">Solveaux</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://deep-chauhan-04.github.io/leadlens/">leadlens</a>
   &nbsp;·&nbsp;
 </p>
 
