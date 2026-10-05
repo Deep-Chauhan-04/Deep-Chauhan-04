@@ -19,7 +19,7 @@ Just trying to make a dent in universe
 
 My current focus is **AI/ML, agentic systems, and intelligent systems**.
 
-I'm currently building **[Solveaux](https://solveaux.com)** — a platform for preserving the decisions, constraints, research, and knowledge behind the work people do.
+I'm currently building **[Solveaux](https://solveaux.com)** — a platform for governance and security of agentic AI systems in complex workflows.
 
 ---
 
@@ -37,7 +37,7 @@ I'm currently building **[Solveaux](https://solveaux.com)** — a platform for p
 ### Selected work
 
 **[Solveaux](https://solveaux.com)**
-Organizational intelligence platform focused on keeping project knowledge connected to the work itself.
+Security layer for agents.
 
 ---
 
